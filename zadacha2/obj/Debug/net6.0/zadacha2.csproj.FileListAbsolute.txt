@@ -1,0 +1,15 @@
+/Users/arturs/Desktop/GEEKBRAINS - HOMEWORKS/C_SHARP_SEMINARS/HOMEWORKS/HM1/zadacha2/bin/Debug/net6.0/zadacha2
+/Users/arturs/Desktop/GEEKBRAINS - HOMEWORKS/C_SHARP_SEMINARS/HOMEWORKS/HM1/zadacha2/bin/Debug/net6.0/zadacha2.deps.json
+/Users/arturs/Desktop/GEEKBRAINS - HOMEWORKS/C_SHARP_SEMINARS/HOMEWORKS/HM1/zadacha2/bin/Debug/net6.0/zadacha2.runtimeconfig.json
+/Users/arturs/Desktop/GEEKBRAINS - HOMEWORKS/C_SHARP_SEMINARS/HOMEWORKS/HM1/zadacha2/bin/Debug/net6.0/zadacha2.dll
+/Users/arturs/Desktop/GEEKBRAINS - HOMEWORKS/C_SHARP_SEMINARS/HOMEWORKS/HM1/zadacha2/bin/Debug/net6.0/zadacha2.pdb
+/Users/arturs/Desktop/GEEKBRAINS - HOMEWORKS/C_SHARP_SEMINARS/HOMEWORKS/HM1/zadacha2/obj/Debug/net6.0/zadacha2.csproj.AssemblyReference.cache
+/Users/arturs/Desktop/GEEKBRAINS - HOMEWORKS/C_SHARP_SEMINARS/HOMEWORKS/HM1/zadacha2/obj/Debug/net6.0/zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturs/Desktop/GEEKBRAINS - HOMEWORKS/C_SHARP_SEMINARS/HOMEWORKS/HM1/zadacha2/obj/Debug/net6.0/zadacha2.AssemblyInfoInputs.cache
+/Users/arturs/Desktop/GEEKBRAINS - HOMEWORKS/C_SHARP_SEMINARS/HOMEWORKS/HM1/zadacha2/obj/Debug/net6.0/zadacha2.AssemblyInfo.cs
+/Users/arturs/Desktop/GEEKBRAINS - HOMEWORKS/C_SHARP_SEMINARS/HOMEWORKS/HM1/zadacha2/obj/Debug/net6.0/zadacha2.csproj.CoreCompileInputs.cache
+/Users/arturs/Desktop/GEEKBRAINS - HOMEWORKS/C_SHARP_SEMINARS/HOMEWORKS/HM1/zadacha2/obj/Debug/net6.0/zadacha2.dll
+/Users/arturs/Desktop/GEEKBRAINS - HOMEWORKS/C_SHARP_SEMINARS/HOMEWORKS/HM1/zadacha2/obj/Debug/net6.0/refint/zadacha2.dll
+/Users/arturs/Desktop/GEEKBRAINS - HOMEWORKS/C_SHARP_SEMINARS/HOMEWORKS/HM1/zadacha2/obj/Debug/net6.0/zadacha2.pdb
+/Users/arturs/Desktop/GEEKBRAINS - HOMEWORKS/C_SHARP_SEMINARS/HOMEWORKS/HM1/zadacha2/obj/Debug/net6.0/zadacha2.genruntimeconfig.cache
+/Users/arturs/Desktop/GEEKBRAINS - HOMEWORKS/C_SHARP_SEMINARS/HOMEWORKS/HM1/zadacha2/obj/Debug/net6.0/ref/zadacha2.dll
